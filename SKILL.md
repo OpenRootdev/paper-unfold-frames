@@ -5,7 +5,7 @@ description: Photo-real "crumpled paper ball unfolds frame by frame" stop-motion
 
 # Paper unfold from generated frames
 
-This route looks like real paper photographed frame by frame, which a procedural mesh can't match. For a version you can vary endlessly, where the writing deforms with the paper, see the sister skill [`paper-unfold-mesh`](https://github.com/Ker102/paper-unfold-mesh).
+This route looks like real paper photographed frame by frame, which a procedural mesh can't match. For a version you can vary endlessly, where the writing deforms with the paper, see the sister skill [`paper-unfold-mesh`](https://github.com/OpenRootdev/paper-unfold-mesh).
 
 ## 1 · Generate one grid per sequence
 
