@@ -57,11 +57,9 @@ git clone --depth 1 https://github.com/Ker102/paper-unfold-frames ~/.claude/skil
 
 ## 包含内容
 
-| | |
-|---|---|
-| [`SKILL.md`](https://github.com/Ker102/paper-unfold-frames/blob/main/SKILL.md) | 智能体遵循的说明。 |
-| [`scripts/key_frames.py`](https://github.com/Ker102/paper-unfold-frames/blob/main/scripts/key_frames.py) | 把 3×3 图片切成九张干净的帧。 |
-| [`examples/`](https://github.com/Ker102/paper-unfold-frames/blob/main/examples/) | 效果好的提示词和一段播放代码。 |
+- [`SKILL.md`](https://github.com/Ker102/paper-unfold-frames/blob/main/SKILL.md) · 智能体遵循的说明。
+- [`scripts/key_frames.py`](https://github.com/Ker102/paper-unfold-frames/blob/main/scripts/key_frames.py) · 把 3×3 图片切成九张干净的帧。
+- [`examples/`](https://github.com/Ker102/paper-unfold-frames/blob/main/examples/) · 效果好的提示词和一段播放代码。
 
 <sub>预览图片和视频放在 <a href="https://github.com/Ker102/paper-unfold-frames/tree/assets"><code>assets</code></a> 分支，翻译放在 <a href="https://github.com/Ker102/paper-unfold-frames/tree/translations"><code>translations</code></a> 分支，<code>main</code> 只包含技能本身。</sub>
 

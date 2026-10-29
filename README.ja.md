@@ -57,11 +57,9 @@ git clone --depth 1 https://github.com/Ker102/paper-unfold-frames ~/.claude/skil
 
 ## 中身
 
-| | |
-|---|---|
-| [`SKILL.md`](https://github.com/Ker102/paper-unfold-frames/blob/main/SKILL.md) | エージェントが従う手順書。 |
-| [`scripts/key_frames.py`](https://github.com/Ker102/paper-unfold-frames/blob/main/scripts/key_frames.py) | 3×3 の画像を9枚のきれいなコマに切り分けます。 |
-| [`examples/`](https://github.com/Ker102/paper-unfold-frames/blob/main/examples/) | うまくいったプロンプトと再生用のコード例。 |
+- [`SKILL.md`](https://github.com/Ker102/paper-unfold-frames/blob/main/SKILL.md) · エージェントが従う手順書。
+- [`scripts/key_frames.py`](https://github.com/Ker102/paper-unfold-frames/blob/main/scripts/key_frames.py) · 3×3 の画像を9枚のきれいなコマに切り分けます。
+- [`examples/`](https://github.com/Ker102/paper-unfold-frames/blob/main/examples/) · うまくいったプロンプトと再生用のコード例。
 
 <sub>プレビュー用の画像・動画は <a href="https://github.com/Ker102/paper-unfold-frames/tree/assets"><code>assets</code></a> ブランチ、翻訳は <a href="https://github.com/Ker102/paper-unfold-frames/tree/translations"><code>translations</code></a> ブランチにあり、<code>main</code> にはスキル本体だけが入っています。</sub>
 

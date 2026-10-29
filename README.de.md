@@ -57,11 +57,9 @@ git clone --depth 1 https://github.com/Ker102/paper-unfold-frames ~/.claude/skil
 
 ## Was drin ist
 
-| | |
-|---|---|
-| [`SKILL.md`](https://github.com/Ker102/paper-unfold-frames/blob/main/SKILL.md) | Die Anleitung, der dein Agent folgt. |
-| [`scripts/key_frames.py`](https://github.com/Ker102/paper-unfold-frames/blob/main/scripts/key_frames.py) | Zerlegt das 3×3-Bild in neun saubere Einzelbilder. |
-| [`examples/`](https://github.com/Ker102/paper-unfold-frames/blob/main/examples/) | Die Prompts, die funktioniert haben, und ein Abspiel-Snippet. |
+- [`SKILL.md`](https://github.com/Ker102/paper-unfold-frames/blob/main/SKILL.md) · Die Anleitung, der dein Agent folgt.
+- [`scripts/key_frames.py`](https://github.com/Ker102/paper-unfold-frames/blob/main/scripts/key_frames.py) · Zerlegt das 3×3-Bild in neun saubere Einzelbilder.
+- [`examples/`](https://github.com/Ker102/paper-unfold-frames/blob/main/examples/) · Die Prompts, die funktioniert haben, und ein Abspiel-Snippet.
 
 <sub>Vorschau-Medien liegen im Branch <a href="https://github.com/Ker102/paper-unfold-frames/tree/assets"><code>assets</code></a>, Übersetzungen in <a href="https://github.com/Ker102/paper-unfold-frames/tree/translations"><code>translations</code></a> – <code>main</code> enthält nur den Skill.</sub>
 
