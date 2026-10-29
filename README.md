@@ -57,11 +57,9 @@ git clone --depth 1 https://github.com/Ker102/paper-unfold-frames ~/.claude/skil
 
 ## What's inside
 
-| | |
-|---|---|
-| [`SKILL.md`](SKILL.md) | The instructions your agent follows. |
-| [`scripts/key_frames.py`](scripts/key_frames.py) | Cuts the 3×3 image into nine clean frames. |
-| [`examples/`](examples/) | The prompts that worked and a playback snippet. |
+- [`SKILL.md`](SKILL.md) · The instructions your agent follows.
+- [`scripts/key_frames.py`](scripts/key_frames.py) · Cuts the 3×3 image into nine clean frames.
+- [`examples/`](examples/) · The prompts that worked and a playback snippet.
 
 <sub>Preview media lives on the <a href="https://github.com/Ker102/paper-unfold-frames/tree/assets"><code>assets</code></a> branch and translations on <a href="https://github.com/Ker102/paper-unfold-frames/tree/translations"><code>translations</code></a>, so <code>main</code> holds only the skill.</sub>
 
